@@ -8,7 +8,7 @@ A simple and functional calculator built using vanilla JavaScript, HTML, and CSS
 - Built with pure JavaScript, no dependencies
 
 ## Demo
-[Live Demo]([https://your-demo-link.com](https://guilhermesgsilva.github.io/calculator/))
+[Live Demo](https://guilhermesgsilva.github.io/calculator/)
 
 ## Installation
 
