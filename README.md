@@ -14,11 +14,11 @@ A simple and functional calculator built using vanilla JavaScript, HTML, and CSS
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/guilhermesgsilva/calculator.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd calculator-app
+   cd calculator
    ```
 3. Open `index.html` in your browser.
 
